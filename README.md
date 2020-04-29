@@ -4,3 +4,4 @@
  Written on Python 3.x
  .exe-file created by PyInstaller
  Created by Secla
+More info in git.wiki - Description
